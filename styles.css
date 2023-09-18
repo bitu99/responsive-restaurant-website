@@ -189,6 +189,10 @@ img{
   font-weight: var(--font-medium);
 }
 
+.nav__logo{
+  font-size: 3.5vh;
+}
+
 .nav__logo:hover{
   color: var(--first-color);
 }
