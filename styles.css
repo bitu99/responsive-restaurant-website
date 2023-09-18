@@ -6,8 +6,8 @@
   --header-height: 3rem;
 
   /*========== Colors ==========*/
-  --first-color: #069C54;
-  --first-color-alt: #048654;
+  --first-color: #FC4F00;
+  --first-color-alt: #FC4F00;
   --title-color: #393939;
   --text-color: #707070;
   --text-color-light: #A6A6A6;
@@ -160,6 +160,10 @@ img{
   align-items: center;
 }
 
+.nav__logo{
+  font-size: 3vw;
+}
+
 @media screen and (max-width: 768px){
   .nav__menu{
     position: fixed;
@@ -226,7 +230,7 @@ img{
   justify-content: center;
   align-items: center;
   padding: .3rem;
-  background: rgba(6,156,84,.5);
+  background: #FC4F00;
   border-radius: .4rem;
   z-index: var(--z-tooltip);
   transition: .4s;
