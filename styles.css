@@ -160,7 +160,7 @@ img{
   align-items: center;
 }
 
-.nav__logo{
+.nav__logo h1{
   font-size: 3vw;
 }
 
@@ -189,7 +189,7 @@ img{
   font-weight: var(--font-medium);
 }
 
-.nav__logo{
+.nav__logo h1{
   font-size: 3.5vh;
 }
 
